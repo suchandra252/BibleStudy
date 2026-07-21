@@ -1,81 +1,81 @@
-# Bible Commentary: Matthew 1:1 – The Genealogy of Jesus Christ
+# Bible Commentary: Matthew 1:1  
+**The Genealogy of Jesus Christ**
 
 **Matthew 1:1**  
 “The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.”
 
 ---
 
-## The Two Books of Generations
+## 1. The Two Books of Generations
 
-The Bible records two significant “books of generations”:
+The Bible records two important “books of generations”:
 
-- **Genesis 5:1** – “the book of the generations of Adam” — representing fallen humanity, sin, and death.
-- **Matthew 1:1** – “the book of the generations of Jesus Christ” — the line of redemption and new life.
+- **Genesis 5:1** — “The book of the generations of Adam” (the fallen human race).
+- **Matthew 1:1** — “The book of the generations of Jesus Christ” (the line of redemption).
 
-**Key Spiritual Truth**: We are all born into Adam’s line. Through repentance and faith, we are transferred into Christ’s family (see 1 Corinthians 15:22, 45-49).
+**Key Truth**: Every person is born into Adam’s family. But through repentance and faith in Christ, we can be transferred into Jesus’ family (1 Corinthians 15:22, 45-49).
 
 ---
 
-## The Legal and Physical Lineage of the Messiah
+## 2. The Legal and Physical Lineage of Jesus
 
 ### Matthew’s Genealogy (Joseph’s Line)
-- Traces **Joseph**, husband of Mary (Matthew 1:16).
-- Royal line through **David → Solomon** and the kings of Judah.
-- Establishes Jesus as the **legal heir** to David’s throne.
+- Traces the lineage of **Joseph**, the husband of Mary.
+- Follows the **royal line** through David → Solomon and the kings of Judah.
+- Proves Jesus is the **legal heir** to the throne of David.
 
 ### Luke’s Genealogy (Mary’s Line)
-- Traces Mary’s ancestry through **David → Nathan**.
-- Confirms Jesus as physically “of the seed of David according to the flesh” (Romans 1:3).
+- Traces the lineage of **Mary**.
+- Follows David → **Nathan** (another son of David).
+- Proves Jesus is physically “of the seed of David according to the flesh” (Romans 1:3).
 
-**From Adam to David**: Lines are the same.  
-**After David**: They branch into two trees.
-
-This dual lineage fulfills prophecy and proves Jesus is the rightful King and true Son of Man.
+**Summary**: The two genealogies together confirm Jesus as both the legal and physical descendant of King David.
 
 ---
 
-## Why Matthew Starts with Abraham
+## 3. Why Matthew Begins with Abraham
 
-Matthew wrote primarily for a Jewish audience, beginning with Abraham to show Jesus fulfills the covenant promises to Israel. Luke begins with Adam for a universal (Gentile) audience.
-
----
-
-## The Four Women in Jesus’ Genealogy
-
-Matthew unusually highlights four women, each with a background of brokenness or outsider status — revealing God’s amazing grace:
-
-1. **Tamar** (v.3) – Genesis 38: Deception and immorality with Judah.
-2. **Rahab** (v.5) – Joshua 2 & 6: Prostitute of Jericho who joined God’s people.
-3. **Ruth** (v.5) – Moabite Gentile; Moab’s origin from incest (Genesis 19).
-4. **Bathsheba** (v.6 – “wife of Uriah”) – 2 Samuel 11: Adultery and murder involving David.
+Matthew wrote mainly for Jews, so he starts with **Abraham**.  
+Luke wrote for the wider world, so he starts with **Adam**.
 
 ---
 
-> **Matthew 1:1**  
-> “The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.”
+## 4. The Four Women in Jesus’ Genealogy
+
+Matthew highlights four women in the genealogy — something very unusual in Jewish records. Each had a difficult or shameful background:
+
+1. **Tamar** (v.3) – Involved in deception and immorality (Genesis 38).
+2. **Rahab** (v.5) – A prostitute from Jericho (Joshua 2 & 6).
+3. **Ruth** (v.5) – A Moabite woman (Gentile outsider).
+4. **Bathsheba** (v.6) – Involved in David’s adultery and the murder of Uriah (2 Samuel 11).
 
 ---
 
-## Theological Significance
+## 5. Theological Significance
 
-Jesus deliberately chose a sinful family line. He came **not to call the righteous, but sinners** (Matthew 9:13). By humbling Himself to the lowest place, He can save anyone.
+Jesus deliberately chose to come through a **sinful and broken family line**.  
+He did not come to call the righteous, but **sinners to repentance** (Matthew 9:13).
 
-> “He humbled Himself by becoming obedient to the point of death, even death on a cross.” (Philippians 2:8)
+This shows the depth of God’s grace — He can save anyone, no matter their background.
 
 ---
 
-## Application: Discipleship and Humility
+## 6. Application: Discipleship and Humility
 
-Many take pride in family heritage or status. But the King of kings chose a broken line. True disciples must reject superiority and follow Jesus in humility.
+Many people take pride in their family name, status, or heritage.  
+But the King of kings chose the lowest path.
 
-**Self-Examination Questions**:
-- Do I feel superior to others because of my background?
-- Am I willing to identify with the least and lowest, as Jesus did?
+**Challenge for Every Disciple**:
+- Give up all feelings of superiority.
+- Humbly identify with sinners, just as Jesus did.
+- Boast only in the cross of Christ (Galatians 6:14).
 
-**Call to Action**: Boast only in the cross of Christ (Galatians 6:14).
+**Self-Examination**:
+- Do I still feel superior to others because of my background?
+- Am I willing to follow Jesus in true humility?
 
 ---
 
 **Prepared for Ministry Use**  
-Suitable for personal study, WhatsApp sharing, or teaching.  
-Date: July 2026
+Date: July 2026  
+Ideal for personal Bible study, teaching, and WhatsApp sharing.
