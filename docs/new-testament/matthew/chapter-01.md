@@ -1,4 +1,4 @@
-# Bible Commentary: Matthew 1:1 – The Genealogy of Jesus Christ
+# Matthew 1:1 – The Genealogy of Jesus Christ
 
 **Matthew 1:1**  
 “The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.”
@@ -11,9 +11,6 @@ The Bible records two significant “books of generations”:
 - **Matthew 1:1** – “the book of the generations of Jesus Christ” — the line of redemption and new life.
 
 **Key Spiritual Truth**: We are all born into Adam’s line. Through repentance and faith, we are transferred into Christ’s family (see 1 Corinthians 15:22, 45-49).
-
-![Jesus Family Tree](searched_images/P1rwz.jpg)  
-*Illustration of the Family Tree of Jesus*
 
 ## The Legal and Physical Lineage of the Messiah
 
@@ -31,9 +28,6 @@ The Bible records two significant “books of generations”:
 
 This dual lineage fulfills prophecy and proves Jesus is the rightful King and true Son of Man.
 
-![Detailed Genealogy Tree](searched_images/5zvIs.jpg)  
-*Detailed Family Tree of Jesus*
-
 ## Why Matthew Starts with Abraham
 Matthew wrote primarily for a Jewish audience, beginning with Abraham to show Jesus fulfills the covenant promises to Israel. Luke begins with Adam for a universal (Gentile) audience.
 
@@ -45,9 +39,6 @@ Matthew unusually highlights four women, each with a background of brokenness or
 2. **Rahab** (v.5) – Joshua 2 & 6: Prostitute of Jericho who joined God’s people.
 3. **Ruth** (v.5) – Moabite Gentile; Moab’s origin from incest (Genesis 19).
 4. **Bathsheba** (v.6 – “wife of Uriah”) – 2 Samuel 11: Adultery and murder involving David.
-
-![The Four Women](searched_images/VXmOi.jpg)  
-*Artistic representation of the women in Jesus’ lineage*
 
 ## Theological Significance
 Jesus deliberately chose a sinful family line. He came **not to call the righteous, but sinners** (Matthew 9:13). By humbling Himself to the lowest place, He can save anyone.
@@ -63,16 +54,9 @@ Many take pride in family heritage or status. But the King of kings chose a brok
 
 **Call to Action**: Boast only in the cross of Christ (Galatians 6:14).
 
-![Jesus Serving in Humility](searched_images/ncuc0.jpg)  
-*Jesus washing feet – example of true humility*
-
 ---
 
 **Prepared for Ministry Use**  
 Suitable for personal study, WhatsApp sharing, or teaching.  
 Date: July 2026  
 Speaker inspiration: Zac Poonen-style practical discipleship teaching.
-
----
-
-*Images are located in the `searched_images/` folder for easy Git inclusion.*
