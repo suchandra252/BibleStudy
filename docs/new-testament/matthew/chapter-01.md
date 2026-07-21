@@ -6,76 +6,68 @@
 
 ---
 
-## 1. The Two Books of Generations
+## 1. Understanding the Genealogy of Jesus
+
+### A. The Two Books of Generations
 
 The Bible records two important “books of generations”:
 
-- **Genesis 5:1** — “The book of the generations of Adam” (the fallen human race).
-- **Matthew 1:1** — “The book of the generations of Jesus Christ” (the line of redemption).
+- **Genesis 5:1** — “The book of the generations of Adam” (fallen humanity).
+- **Matthew 1:1** — “The book of the generations of Jesus Christ” (redemption).
 
-**Key Truth**: Every person is born into Adam’s family. But through repentance and faith in Christ, we can be transferred into Jesus’ family (1 Corinthians 15:22, 45-49).
+**Key Truth**: We are all born into Adam’s line. Through repentance and faith, we can be transferred into Christ’s family (1 Corinthians 15:22, 45-49).
 
----
+### B. Jesus’ Legal and Physical Lineage
 
-## 2. The Legal and Physical Lineage of Jesus
+#### Matthew’s Genealogy (Joseph – Legal Heir)
+- Traces **Joseph**, husband of Mary.
+- Follows the royal line: David → Solomon → kings of Judah.
+- Establishes Jesus as the **legal heir** to David’s throne.
 
-### Matthew’s Genealogy (Joseph’s Line)
-- Traces the lineage of **Joseph**, the husband of Mary.
-- Follows the **royal line** through David → Solomon and the kings of Judah.
-- Proves Jesus is the **legal heir** to the throne of David.
+#### Luke’s Genealogy (Mary – Physical Descent)
+- Traces **Mary**’s line through David → Nathan.
+- Confirms Jesus is physically “of the seed of David according to the flesh” (Romans 1:3).
 
-### Luke’s Genealogy (Mary’s Line)
-- Traces the lineage of **Mary**.
-- Follows David → **Nathan** (another son of David).
-- Proves Jesus is physically “of the seed of David according to the flesh” (Romans 1:3).
+**Summary**: Both genealogies together prove Jesus is the rightful King from David’s line — legally through Joseph and physically through Mary.
 
-**Summary**: The two genealogies together confirm Jesus as both the legal and physical descendant of King David.
+### C. Purpose of Starting with Abraham
 
----
-
-## 3. Why Matthew Begins with Abraham
-
-Matthew wrote mainly for Jews, so he starts with **Abraham**.  
-Luke wrote for the wider world, so he starts with **Adam**.
+Matthew wrote primarily for a **Jewish audience**, so he begins with Abraham.  
+Luke wrote for the **Gentile world**, so he begins with Adam.
 
 ---
 
-## 4. The Four Women in Jesus’ Genealogy
+## 2. The Four Women in the Genealogy & Its Meaning
 
-Matthew highlights four women in the genealogy — something very unusual in Jewish records. Each had a difficult or shameful background:
+Matthew unusually includes four women, each with a broken or shameful background:
 
-1. **Tamar** (v.3) – Involved in deception and immorality (Genesis 38).
-2. **Rahab** (v.5) – A prostitute from Jericho (Joshua 2 & 6).
-3. **Ruth** (v.5) – A Moabite woman (Gentile outsider).
-4. **Bathsheba** (v.6) – Involved in David’s adultery and the murder of Uriah (2 Samuel 11).
+1. **Tamar** (v.3) — Deception and immorality with her father-in-law (Genesis 38).
+2. **Rahab** (v.5) — Prostitute of Jericho (Joshua 2 & 6).
+3. **Ruth** (v.5) — Moabite Gentile (outsider, Genesis 19).
+4. **Bathsheba** (v.6) — Adultery and murder involving David (2 Samuel 11).
 
----
+### Theological Significance
 
-## 5. Theological Significance
+Jesus **deliberately** chose to come through a sinful family line.  
+He came not for the righteous, but **to save sinners** (Matthew 9:13).  
+This reveals the greatness of God’s grace — no background is too broken for redemption.
 
-Jesus deliberately chose to come through a **sinful and broken family line**.  
-He did not come to call the righteous, but **sinners to repentance** (Matthew 9:13).
+### Application: True Discipleship & Humility
 
-This shows the depth of God’s grace — He can save anyone, no matter their background.
+Many take pride in family background or status.  
+But the King of kings humbled Himself to the lowest place.
 
----
-
-## 6. Application: Discipleship and Humility
-
-Many people take pride in their family name, status, or heritage.  
-But the King of kings chose the lowest path.
-
-**Challenge for Every Disciple**:
-- Give up all feelings of superiority.
-- Humbly identify with sinners, just as Jesus did.
+**Challenge**:
+- Reject all superiority over others.
+- Follow Jesus in genuine humility.
 - Boast only in the cross of Christ (Galatians 6:14).
 
-**Self-Examination**:
-- Do I still feel superior to others because of my background?
-- Am I willing to follow Jesus in true humility?
+**Self-Examination Questions**:
+- Do I still feel better than others because of my background?
+- Am I ready to identify with the weak and sinful as Jesus did?
 
 ---
 
 **Prepared for Ministry Use**  
 Date: July 2026  
-Ideal for personal Bible study, teaching, and WhatsApp sharing.
+Suitable for Bible study, teaching, and sharing.
