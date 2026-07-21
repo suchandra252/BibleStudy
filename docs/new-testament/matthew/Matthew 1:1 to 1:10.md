@@ -1,4 +1,4 @@
-# Bible Commentary: Matthew 1:1  
+# Matthew 1:1 to 1:10
 **The Genealogy of Jesus Christ**
 
 **Matthew 1:1**  
