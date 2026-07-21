@@ -1,0 +1,16 @@
+site_name: Bible Study Notes
+site_description: Bible Study Knowledge Base
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
