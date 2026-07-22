@@ -10,6 +10,8 @@ One of the most surprising features in Matthew’s genealogy is the mention of *
 
 Jesus, the only Person who ever chose the family, place, and time of His birth, deliberately chose to come through this broken line.
 
+![Four Woman](images/mattew-01-02-four-woman.png)
+
 ---
 
 ## <span style="color: #2c7a7b; font-weight: bold;">1. Tamar</span>
@@ -20,9 +22,9 @@ Jesus, the only Person who ever chose the family, place, and time of His birth, 
 Tamar was Judah’s daughter-in-law. After her husbands died, Judah failed to give her his third son as the law required. In desperation she disguised herself as a prostitute, sat by the roadside, and conceived twin sons through her own father-in-law.
 
 This is a story of deception, sexual immorality, and family failure. Yet God placed Tamar in the direct line of the Messiah.
-
+<!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rembrandt%27s_school_Tamar.JPG/500px-Rembrandt%27s_school_Tamar.JPG"  width="500">
-
+-->
 ---
 
 ## <span style="color: #2c7a7b; font-weight: bold;">2. Rahab</span>
@@ -34,7 +36,7 @@ Rahab was a prostitute living in Jericho. When the Israelite spies came, she hid
 
 A Canaanite woman with a publicly immoral life was brought into the covenant people of God and into the ancestry of Christ.
 
-<img src="https://wingulamashahidi.org/wp-content/uploads/2024/02/rahab-spies.jpg"  width="500">
+<!-- <img src="https://wingulamashahidi.org/wp-content/uploads/2024/02/rahab-spies.jpg"  width="500"> -->
 ---
 
 ## <span style="color: #2c7a7b; font-weight: bold;">3. Ruth</span>
@@ -46,7 +48,7 @@ Ruth was a Moabite. The Moabites themselves originated from the incestuous relat
 
 Yet this Gentile widow left her people, clung to Naomi, and became the great-grandmother of King David — and an ancestor of Jesus.
 
-<img src="https://www.inspirationalchristians.org/images/ruth-fields-1-1024x640.jpg.webp" width="500">
+<!-- <img src="https://www.inspirationalchristians.org/images/ruth-fields-1-1024x640.jpg.webp" width="500"> -->
 ---
 
 ## <span style="color: #2c7a7b; font-weight: bold;">4. Bathsheba</span>
