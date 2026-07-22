@@ -1,8 +1,7 @@
 # <span style="color: #2b6cb0; font-weight: bold;">Matthew 1:11–18</span>
 <span style="color: #4a5568;">Zac Poonen – Verse-by-Verse Study</span>
 
-**Watch the full video here:**  
-[https://youtu.be/lZTQ7le8riw](https://youtu.be/lZTQ7le8riw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lZTQ7le8riw" title="Matthew 1:11 to 1:18 - Zac Poonen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
