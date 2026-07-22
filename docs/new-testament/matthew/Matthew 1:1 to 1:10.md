@@ -1,77 +1,79 @@
-**This is bold red text**{: style="color: #e53e3e;" }
-
-[This is green text]{: style="color: darkgreen;" }
-
-# Matthew 1:1 to 1:10
-**The Genealogy of Jesus Christ**
-
-**Matthew 1:1**  
-“The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.”
+# <span style="color: #2b6cb0; font-weight: bold;">Matthew 1:1–10</span>
+<span style="color: #4a5568;">Zac Poonen – Verse-by-Verse Study</span>
 
 ---
 
-## 1. Understanding the Genealogy of Jesus
+## <span style="color: #2c7a7b; font-weight: bold;">1. The Two Books of Generations</span>
+<span style="color: #718096;">Matthew 1:1</span>
 
-### A. The Two Books of Generations
+> <span style="color: #e53e3e; font-weight: bold;">“The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.”</span>
 
-The Bible records two important “books of generations”:
+The New Testament begins with a genealogy. This is highly significant. In the Old Testament we find “the book of the generations of Adam” (Genesis 5:1). Here we find “the book of the generations of Jesus Christ.”
 
-- **Genesis 5:1** — “The book of the generations of Adam” (fallen humanity).
-- **Matthew 1:1** — “The book of the generations of Jesus Christ” (redemption).
+These are two different races — one human and the other divine. Everyone is originally born into the book of the generations of Adam. But some, by repentance and faith, are transferred into the book of the generations of Jesus Christ.
 
-**Key Truth**: We are all born into Adam’s line. Through repentance and faith, we can be transferred into Christ’s family (1 Corinthians 15:22, 45-49).
+![Two Races](images/mattew-01-01.png)
+---
 
-### B. Jesus’ Legal and Physical Lineage
+## <span style="color: #2c7a7b; font-weight: bold;">2. Jesus – Legal Heir and Physical Seed of David</span>
+<span style="color: #718096;">Matthew 1:1–16 & Luke 3:23–31</span>
 
-#### Matthew’s Genealogy (Joseph – Legal Heir)
-- Traces **Joseph**, husband of Mary.
-- Follows the royal line: David → Solomon → kings of Judah.
-- Establishes Jesus as the **legal heir** to David’s throne.
+Matthew records the genealogy of **Joseph**, the husband of Mary. Joseph belonged to the kingly line of David through Solomon. If there had been a reigning king in Israel at that time, Joseph would have been entitled to the throne, and after him his legal son Jesus.
 
-#### Luke’s Genealogy (Mary – Physical Descent)
-- Traces **Mary**’s line through David → Nathan.
-- Confirms Jesus is physically “of the seed of David according to the flesh” (Romans 1:3).
+Luke records the genealogy of **Mary**. She also descended from David, but through another son — Nathan (Luke 3:31). From Adam to David the two lines were the same. At David they branched off: Joseph through Solomon, Mary through Nathan.
 
-**Summary**: Both genealogies together prove Jesus is the rightful King from David’s line — legally through Joseph and physically through Mary.
+Thus Jesus is both:
+- The **legal heir** to David’s throne through Joseph
+- The **physical seed** of David through Mary (Romans 1:3)
 
-### C. Purpose of Starting with Abraham
-
-Matthew wrote primarily for a **Jewish audience**, so he begins with Abraham.  
-Luke wrote for the **Gentile world**, so he begins with Adam.
+He truly came in the flesh of David — our flesh.
 
 ---
 
-## 2. The Four Women in the Genealogy & Its Meaning
+## <span style="color: #2c7a7b; font-weight: bold;">3. Why Matthew Begins with Abraham</span>
+<span style="color: #718096;">Matthew 1:2</span>
 
-Matthew unusually includes four women, each with a broken or shameful background:
-
-1. **Tamar** (v.3) — Deception and immorality with her father-in-law (Genesis 38).
-2. **Rahab** (v.5) — Prostitute of Jericho (Joshua 2 & 6).
-3. **Ruth** (v.5) — Moabite Gentile (outsider, Genesis 19).
-4. **Bathsheba** (v.6) — Adultery and murder involving David (2 Samuel 11).
-
-### Theological Significance
-
-Jesus **deliberately** chose to come through a sinful family line.  
-He came not for the righteous, but **to save sinners** (Matthew 9:13).  
-This reveals the greatness of God’s grace — no background is too broken for redemption.
-
-### Application: True Discipleship & Humility
-
-Many take pride in family background or status.  
-But the King of kings humbled Himself to the lowest place.
-
-**Challenge**:
-- Reject all superiority over others.
-- Follow Jesus in genuine humility.
-- Boast only in the cross of Christ (Galatians 6:14).
-
-**Self-Examination Questions**:
-- Do I still feel better than others because of my background?
-- Am I ready to identify with the weak and sinful as Jesus did?
+Matthew was writing primarily to the Jews, so he begins the genealogy with Abraham.  
+Luke was writing to the wider world, so he begins with Adam.
 
 ---
 
-**Prepared for Ministry Use**  
-Date: July 2026  
-Suitable for Bible study, teaching, and sharing.
+## <span style="color: #2c7a7b; font-weight: bold;">4. The Four Women in the Genealogy</span>
+<span style="color: #718096;">Matthew 1:3–6</span>
+
+Matthew unusually includes four women in the genealogy. Each had a background of shame or brokenness:
+
+1. **Tamar** (v.3) — She disguised herself as a prostitute and committed adultery with her father-in-law Judah (Genesis 38).
+2. **Rahab** (v.5) — The prostitute of Jericho who later married Salmon (Joshua 2 & 6).
+3. **Ruth** (v.5) — A Moabite Gentile. Moab itself was born through incest (Genesis 19:30–37).
+4. **Bathsheba** (v.6) — Called “the wife of Uriah.” David committed adultery with her and murdered her husband (2 Samuel 11).
+
+Jesus, who alone could choose His family line, deliberately chose a line filled with immorality and shame. He did this because He came to save sinners, not the righteous (Matthew 9:13). He came for the least and the lowest.
+
+---
+
+## <span style="color: #2c7a7b; font-weight: bold;">5. Key Spiritual Lessons</span>
+
+- There are two books of generations. We are all born into Adam’s book, but by repentance and faith we can be transferred into Christ’s book.
+- Jesus is both the legal and physical Son of David — fully qualified as Messiah and King.
+- Jesus deliberately chose a shameful family line so that no one would feel too sinful or too broken to come to Him.
+- Pride in family background, status, or heritage has no place in the life of a disciple.
+
+---
+
+## <span style="color: #2c7a7b; font-weight: bold;">6. Personal Application</span>
+
+- Am I still proud of my family line, caste, or social standing?
+- Do I look down on people with a “shameful” background?
+- Have I truly transferred from the book of Adam into the book of Jesus Christ through repentance and faith?
+- Am I willing to follow Jesus in humility to the lowest place?
+
+---
+
+### <span style="color: #805ad5; font-weight: bold;">Prayer</span>
+
+Lord Jesus, thank You that You chose to come through a broken and sinful line so that You could save people like us. Shatter every form of pride in my heart. Help me never again to feel superior to any other human being. Transfer me fully into Your family and make me a true disciple who follows You in humility. Amen.
+
+---
+
+<span style="color: #718096; font-size: 0.9em;">Prepared for Ministry Use | July 2026</span>
