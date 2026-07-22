@@ -1,9 +1,9 @@
 # <span style="color: #2b6cb0; font-weight: bold;">Matthew 1:11–18</span>
 <span style="color: #4a5568;">Zac Poonen – Verse-by-Verse Study</span>
 
-<div style="text-align:center;">
-<iframe width="100%" height="415" src="https://youtu.be/lZTQ7le8riw?si=yVOIUGRTNGjcVOTH" frameborder="0" allowfullscreen></iframe>
-</div>
+**Watch the full video here:**  
+[https://youtu.be/lZTQ7le8riw](https://youtu.be/lZTQ7le8riw)
+
 ---
 
 ## <span style="color: #2c7a7b; font-weight: bold;">1. The Curse on Jeconiah and the Wisdom of God</span>
