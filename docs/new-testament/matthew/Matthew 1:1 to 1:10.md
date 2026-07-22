@@ -1,3 +1,7 @@
+**This is bold red text**{: style="color: #e53e3e;" }
+
+[This is green text]{: style="color: darkgreen;" }
+
 # Matthew 1:1 to 1:10
 **The Genealogy of Jesus Christ**
 
