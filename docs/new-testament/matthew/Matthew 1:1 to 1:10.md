@@ -1,7 +1,7 @@
 # <span style="color: #2b6cb0; font-weight: bold;">Matthew 1:1–10</span>
 <span style="color: #4a5568;">Zac Poonen – Verse-by-Verse Study</span>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2-5Oi2QmtgA&list=PL3myepmxcTQTGm4DX3YBQoerq4Ee7AM6u&index=1" title="Matthew 1:1 to 1:10 - Zac Poonen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-5Oi2QmtgA" title="Matthew 1:1 to 1:10 - Zac Poonen" frameborder="0" allow="accelerometer; autoplay; indows; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
