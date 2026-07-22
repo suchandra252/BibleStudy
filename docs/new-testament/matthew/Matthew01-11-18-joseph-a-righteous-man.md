@@ -1,4 +1,4 @@
-# <span style="color: #2b6cb0; font-weight: bold;">Joseph – A Righteous Man</span>
+# <span style="color: #2b6cb0; font-weight: bold;">Matthew 1:18–25 || Joseph – A Righteous Man</span>
 <span style="color: #4a5568;">Zac Poonen – Verse-by-Verse Study (Matthew 1:18–25)</span>
 
 ---
