@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "9c30a84b0b17316a",
+    "type": "split",
+    "children": [
+      {
+        "id": "526596347a268ca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c65e4af5f785eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matthew 02:01–02:11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9da3d9ee2d04b4b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "73025a7e94cc50f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba6629ea0ee7efde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f670d66ca98b0253",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c3963d54b1d7e40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb063a232f2f74f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6816f0fe6a6faf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07203419f7d440e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Matthew 02:01–02:11"
+            }
+          },
+          {
+            "id": "ed0f8e5b1dd345dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Matthew 02:01–02:11"
+            }
+          },
+          {
+            "id": "aa150e783ee374af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73ede1e33f8a7a60",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4826d23fea97e0c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Matthew 02:01–02:11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1c65e4af5f785eb1",
+  "lastOpenFiles": [
+    "docs/new-testament/matthew/Matthew 01:01-01:10.md",
+    "docs/new-testament/matthew/Matthew 02:12–22.md",
+    "docs/new-testament/matthew/Matthew 2:1–11.md",
+    "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+    "docs/new-testament/matthew/Matthew 01:18–01:25.md",
+    "docs/new-testament/matthew/Matthew 01:1-01:10.md",
+    "docs/new-testament/matthew/Matthew 01:11–01:18.md",
+    "docs/new-testament/matthew/Matthew 01:1 to 01:10.md",
+    "docs/new-testament/matthew/Matthew 2:12–22 copy.md",
+    "docs/new-testament/matthew/Matthew 2:12–22.md"
+  ]
+}
