@@ -5,6 +5,28 @@
 
 ---
 
+### <span style="color: #805ad5; font-weight: bold;">Bible Text (NASB)</span>
+
+> <span style="color: #2c7a7b;">**Matthew 2:1–11**</span>  
+> <span style="color: #4a5568;">
+> 1 Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, magi from the east arrived in Jerusalem, saying,  
+> 2 “Where is He who has been born King of the Jews? For we saw His star in the east and have come to worship Him.”  
+> 3 When Herod the king heard this, he was troubled, and all Jerusalem with him.  
+> 4 Gathering together all the chief priests and scribes of the people, he inquired of them where the Messiah was to be born.  
+> 5 They said to him, “In Bethlehem of Judea; for this is what has been written by the prophet:  
+> 6 ‘And you, Bethlehem, land of Judah,  
+> Are by no means least among the leaders of Judah;  
+> For out of you shall come forth a Ruler  
+> Who will shepherd My people Israel.’”  
+> 7 Then Herod secretly called the magi and determined from them the exact time the star appeared.  
+> 8 And he sent them to Bethlehem and said, “Go and search carefully for the Child; and when you have found Him, report to me, so that I too may come and worship Him.”  
+> 9 After hearing the king, they went their way; and the star, which they had seen in the east, went on before them until it came and stopped over the place where the Child was.  
+> 10 When they saw the star, they rejoiced exceedingly with great joy.  
+> 11 After coming into the house they saw the Child with Mary His mother; and they fell to the ground and worshiped Him. Then, opening their treasures, they presented to Him gifts of gold, frankincense, and myrrh.
+> </span>
+
+---
+
 ## <span style="color: #2c7a7b; font-weight: bold;">1. The Magi from the East</span>
 <span style="color: #718096;">Matthew 2:1–2</span>
 
