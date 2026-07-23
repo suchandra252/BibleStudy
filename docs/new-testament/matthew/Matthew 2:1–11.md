@@ -28,6 +28,8 @@
 ---
 
 ## <span style="color: #2c7a7b; font-weight: bold;">1. The Magi from the East</span>
+<img src="https://blog.cph.org/hs-fs/hubfs/_blogs/CPH_blog/Study/2023/epiphany-wise-men.jpg?width=2000&height=1122&name=epiphany-wise-men.jpg"  width="500">
+
 <span style="color: #718096;">Matthew 2:1–2</span>
 
 > <span style="color: #e53e3e; font-weight: bold;">“Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, magi from the east arrived in Jerusalem, saying, ‘Where is He who has been born King of the Jews? For we saw His star in the east and have come to worship Him.’”</span>
