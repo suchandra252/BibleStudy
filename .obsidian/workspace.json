@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "file": "docs/new-testament/matthew/Matthew 02-12 to 02-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matthew 02:01–02:11"
+              "title": "Matthew 02-12 to 02-22"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "file": "docs/new-testament/matthew/Matthew 02-12 to 02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Matthew 02:01–02:11"
+              "title": "Backlinks for Matthew 02-12 to 02-22"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "file": "docs/new-testament/matthew/Matthew 02-12 to 02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Matthew 02:01–02:11"
+              "title": "Outgoing links from Matthew 02-12 to 02-22"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+                "file": "docs/new-testament/matthew/Matthew 02-12 to 02-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Matthew 02:01–02:11"
+              "title": "Outline of Matthew 02-12 to 02-22"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "1c65e4af5f785eb1",
   "lastOpenFiles": [
-    "docs/new-testament/matthew/Matthew 01:01-01:10.md",
     "docs/new-testament/matthew/Matthew 02:12–22.md",
-    "docs/new-testament/matthew/Matthew 2:1–11.md",
+    "docs/new-testament/matthew/Matthew 02-12 to 02-22.md.md",
+    "docs/new-testament/matthew/Matthew 02-12 to 02-22.md",
+    "docs/new-testament/matthew/Matthew 02-01 to 02-11.md",
     "docs/new-testament/matthew/Matthew 02:01–02:11.md",
+    "docs/new-testament/matthew/Matthew 01:01-01:10.md",
+    "docs/new-testament/matthew/Matthew 2:1–11.md",
     "docs/new-testament/matthew/Matthew 01:18–01:25.md",
     "docs/new-testament/matthew/Matthew 01:1-01:10.md",
     "docs/new-testament/matthew/Matthew 01:11–01:18.md",
