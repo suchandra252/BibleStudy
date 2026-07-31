@@ -1,4 +1,4 @@
-# <span style="color:#8B0000;">📖 Matthew 1:18–25</span>
+# <span style="color:#8B0000;">📖 Matthew 1:18–25 (Personal Notes)</span>
 
 ---
 
