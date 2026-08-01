@@ -17,10 +17,10 @@
 
 The most important thing for every human being is to **know God** and receive His life.  
 
-> <div style="background-color:#D4EDDA; padding:12px 16px; border-left:5px solid #28A745; border-radius:5px; margin:15px 0;">
-> <span style="color:#155724; font-weight:bold;">✅ Important Truth</span><br><br>
-> <span style="color:#0B3D1B;">
-> • If we do not know God and do not receive His life, we will gradually descend to the level of animals.
+> <div style="background-color:#F8D7DA; padding:12px 16px; border-left:5px solid #DC3545; border-radius:5px; margin:15px 0;">
+> <span style="color:#721C24; font-weight:bold;">⚠️ Serious Warning</span><br><br>
+> <span style="color:#491217;">
+> If we do not know God and do not receive His life, we will gradually descend to the level of animals. Without the life of God, man loses his true dignity and begins to live only for the desires of the body.
 > </span>
 > </div>
 
@@ -64,9 +64,9 @@ God is Spirit. Therefore the image of God in man is the **spirit** that God plac
 Animals have minds (the serpent in Genesis 3 was more intelligent than other animals), but they have **no spirit** and **no conscience**.
 
 > <div style="background-color:#D4EDDA; padding:12px 16px; border-left:5px solid #28A745; border-radius:5px; margin:15px 0;">
-> <span style="color:#155724; font-weight:bold;">✅ Important Truth</span><br><br>
+> <span style="color:#155724; font-weight:bold;">✅ Core Truth</span><br><br>
 > <span style="color:#0B3D1B;">
-> • Man is the only created being on earth that has a spirit.
+> Man is the only created being on earth that has a spirit. This is what makes him completely different from animals. The spirit is the place where God can dwell and communicate with man.
 > </span>
 > </div>
 
@@ -100,10 +100,12 @@ Every human being stands between **two powerful pulls**:
 - Later, for believers, through the **Holy Spirit**  
 - Pulls a person upward towards God, purity, and eternal life  
 
-> <span style="color:#c05621;">“We are between these two pulls. One pulling us down. The other pulling us up. An animal has nothing pulling it up. But we do — all human beings have it, including those who call themselves atheists.”</span>  
-> — Zac Poonen
-
-Even atheists, when they are dying or drowning, suddenly cry out to God. That is the upward pull still working in them.
+> <div style="background-color:#FFF3CD; padding:12px 16px; border-left:5px solid #FFC107; border-radius:5px; margin:15px 0;">
+> <span style="color:#856404; font-weight:bold;">💬 Key Quote from Zac Poonen</span><br><br>
+> <span style="color:#533F03;">
+> “We are between these two pulls. One pulling us down. The other pulling us up. An animal has nothing pulling it up. But we do — all human beings have it, including those who call themselves atheists. Even atheists, when they are dying or drowning, suddenly cry out to God. That is the upward pull still working in them.”
+> </span>
+> </div>
 
 God designed man so that the **upward heavenly pull** should control every area of his life — not the downward earthly pull.
 
@@ -131,15 +133,10 @@ After a person receives Christ and opens his life to the Holy Spirit, God begins
 
 This is higher than conscience.  
 
-> <div style="background-color:#D4EDDA; padding:12px 16px; border-left:5px solid #28A745; border-radius:5px; margin:15px 0;">
-> <span style="color:#155724; font-weight:bold;">✅ Important Truth</span><br><br>
-> <span style="color:#0B3D1B;">
-> • The Word of God gives us principles, but it will not tell you everything specifically.<br>
-> • The Bible will not tell you which movie to watch.<br>
-> • The Bible will not tell you which job to take.<br>
-> • The Bible will not tell you what programme to watch on television.<br>
-> • The Bible will not tell you every daily decision you must make.<br>
-> • But the Holy Spirit will. He will warn you, check you, and give you a clear sense of what is good for your spirit and what is harmful.
+> <div style="background-color:#D1ECF1; padding:12px 16px; border-left:5px solid #17A2B8; border-radius:5px; margin:15px 0;">
+> <span style="color:#0C5460; font-weight:bold;">💡 Deep Insight</span><br><br>
+> <span style="color:#062C33;">
+> The Word of God gives us principles, but it will not tell you everything specifically. The Bible will not tell you which movie to watch, which job to take, or what programme to watch on television. It will not give you every daily decision. But the Holy Spirit will. He will warn you, check you, and give you a clear inner sense of what is good for your spirit and what is harmful. This is why we need both the written Word and the living guidance of the Holy Spirit.
 > </span>
 > </div>
 
@@ -168,22 +165,19 @@ When deciding whether to watch a certain movie —
 
 You must choose.  
 
-> <div style="background-color:#D4EDDA; padding:12px 16px; border-left:5px solid #28A745; border-radius:5px; margin:15px 0;">
-> <span style="color:#155724; font-weight:bold;">✅ Important Truth</span><br><br>
-> <span style="color:#0B3D1B;">
-> • If you keep choosing the downward pull year after year, you will become more and more like an animal.<br>
-> • If you keep choosing the upward pull, you will become more and more godly.<br>
-> • In ten years’ time, two people who started at the same place can become completely different — one godly and one carnal — simply because of the daily decisions they made.<br>
-> • Ultimately, whether a person goes to hell or lives with God for eternity is the result of his own decisions.
+> <div style="background-color:#F8D7DA; padding:12px 16px; border-left:5px solid #DC3545; border-radius:5px; margin:15px 0;">
+> <span style="color:#721C24; font-weight:bold;">⚠️ Serious Warning</span><br><br>
+> <span style="color:#491217;">
+> If you keep choosing the downward pull year after year, you will become more and more like an animal. If you keep choosing the upward pull, you will become more and more godly. In ten years’ time, two people who started at the same place can become completely different — one godly and one carnal — simply because of the daily decisions they made. Ultimately, whether a person goes to hell or lives with God for eternity is the result of his own decisions.
 > </span>
 > </div>
 
 ---
 
-### <span style="color:#1A5276; background-color:#EAF2F8; padding:5px 12px; border-radius:6px;">✨ Key Takeaways / Important Truths</span>
+### <span style="color:#1A5276; background-color:#EAF2F8; padding:5px 12px; border-radius:6px;">✨ Key Takeaways</span>
 
 > <div style="background-color:#D4EDDA; padding:12px 16px; border-left:5px solid #28A745; border-radius:5px; margin:15px 0;">
-> <span style="color:#155724; font-weight:bold;">✅ Important Truth</span><br><br>
+> <span style="color:#155724; font-weight:bold;">✅ Summary of Main Truths</span><br><br>
 > <span style="color:#0B3D1B;">
 > • Man and animals were created on the same day to show physical similarity.<br>
 > • God breathed His Spirit only into man — this is what makes man different.<br>
