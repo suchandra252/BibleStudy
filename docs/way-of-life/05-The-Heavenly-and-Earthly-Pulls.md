@@ -5,6 +5,14 @@
 
 ---
 
+### Watch the Message
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sl_hh7z3C54" title="The Heavenly and Earthly Pulls - Zac Poonen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**YouTube Link:** [https://youtu.be/sl_hh7z3C54](https://youtu.be/sl_hh7z3C54)
+
+---
+
 <h2 style="color:#553c9a;">Introduction</h2>
 
 The most important thing for every human being is to **know God** and receive His life.  
