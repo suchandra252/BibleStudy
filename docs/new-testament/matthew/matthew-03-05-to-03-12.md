@@ -91,6 +91,7 @@ This is the beginning of the New Covenant gospel: repentance that allows the axe
 > 12 His winnowing fork is in His hand, and He will thoroughly clear His threshing floor; and He will gather His wheat into the barn, but He will burn up the chaff with unquenchable fire.”
 > </span>
 
+<img src="https://i0.wp.com/spiritwordcross.blog/wp-content/uploads/2022/08/294807286_10221368615260406_4640788767688642362_n.jpg?ssl=1" width="500">
 #### <span style="color:#6C3483;">Baptism with the Holy Spirit and Fire</span>
 
 John baptized with water for repentance. But the One coming after him — Jesus — is far greater. John said he was not even fit to remove His sandals. This shows John’s deep humility. He submitted only to Jesus, not to religious leaders, kings, or any human authority.
