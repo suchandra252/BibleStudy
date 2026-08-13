@@ -55,6 +55,7 @@ The devil tempts in every kind of situation: in the wilderness of hardship, in t
 > 11 Then the devil left Him; and behold, angels came and began to minister to Him.
 > </span>
 
+<img src="https://media.freebibleimages.org/stories/FB_GNPI_014_Jesus_Temptation/source-jpeg/08_FB_GNPI_014_Jesus_Temptation_1024.jpg?1725894120" width="500">
 #### <span style="color:#6C3483;">Worship and Serve Him Only</span>
 
 Jesus answered with the same weapon He used in the previous temptations: “It is written.” He quoted Deuteronomy 6:13: “You shall worship the Lord your God, and serve Him only.”

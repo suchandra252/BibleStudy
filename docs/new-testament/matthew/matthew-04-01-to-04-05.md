@@ -22,6 +22,7 @@
 > 2 And after He had fasted forty days and forty nights, He then became hungry.
 > </span>
 
+<img src="https://media.freebibleimages.org/stories/FB_GNPI_014_Jesus_Temptation/source-jpeg/01_FB_GNPI_014_Jesus_Temptation_1024.jpg?1725894120" width="500">
 #### <span style="color:#6C3483;">Led by the Spirit into Temptation</span>
 
 Immediately after the Spirit came upon Jesus at His baptism and the Father declared Him to be His beloved Son, the same Spirit led Him into the wilderness to be tempted by the devil.
