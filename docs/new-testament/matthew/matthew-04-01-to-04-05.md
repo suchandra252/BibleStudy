@@ -55,6 +55,8 @@ The wilderness experience came right after the anointing and the Father’s appr
 > 4 But He answered and said, “It is written, ‘Man shall not live on bread alone, but on <span style="background-color:#FFE4E1; padding:1px 4px; border-radius:3px;">every word that proceeds out of the mouth of God</span>.’”
 > </span>
 
+<img src="https://media.freebibleimages.org/stories/FB_GNPI_014_Jesus_Temptation/source-jpeg/03_FB_GNPI_014_Jesus_Temptation_1024.jpg?1725894120" width="500">
+
 #### <span style="color:#6C3483;">The First Temptation – Doubt and Self-Interest</span>
 
 After forty days of fasting, Jesus was hungry. The devil came with a twofold attack.

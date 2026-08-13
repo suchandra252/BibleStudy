@@ -22,6 +22,7 @@
 > 6 and said to Him, “If You are the Son of God, throw Yourself down; for it is written, ‘He will command His angels concerning You’; and ‘On their hands they will bear You up, so that You will not strike Your foot against a stone.’”
 > </span>
 
+<img src="https://media.freebibleimages.org/stories/FB_GNPI_014_Jesus_Temptation/overview-thumbnails/04_FB_GNPI_014_Jesus_Temptation_Thumbnail.jpg?1725894120" width="500">
 #### <span style="color:#6C3483;">The Second Temptation – Presumption</span>
 
 The devil took Jesus from the wilderness into the holy city and set Him on the pinnacle of the temple. Temptation does not come only in difficult places (the wilderness). It also comes in religious settings and places that appear spiritual.
