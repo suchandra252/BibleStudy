@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "526596347a268ca9",
+        "id": "fdaa075543974511",
         "type": "tabs",
         "children": [
           {
-            "id": "1c65e4af5f785eb1",
+            "id": "71e3a0c69a9995cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/new-testament/matthew/matthew-04-12-to-04-25.md",
+                "file": "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "matthew-04-12-to-04-25"
+              "title": "09-How-Man-Fell-Into-Sin"
             }
           }
         ]
@@ -34,19 +34,6 @@
         "id": "73025a7e94cc50f7",
         "type": "tabs",
         "children": [
-          {
-            "id": "ba6629ea0ee7efde",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "f670d66ca98b0253",
             "type": "leaf",
@@ -73,8 +60,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "a2d4341d4d837c80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/way-of-life/04.Choosing The Creator Over The Created.md",
+                "file": "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04.Choosing The Creator Over The Created"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,10 +185,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c65e4af5f785eb1",
+  "active": "71e3a0c69a9995cb",
   "lastOpenFiles": [
-    "docs/new-testament/matthew/matthew-04-08-to-04-11.md",
+    "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
+    "docs/new-testament/matthew/John-The-Baptist-Notes.md.md",
+    "Untitled.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "docs/new-testament/matthew/matthew-04-12-to-04-25.md",
+    "docs/new-testament/matthew/matthew-04-08-to-04-11.md",
     "docs/new-testament/matthew/matthew-01-11-to-01-18.md",
     "docs/new-testament/matthew/matthew-01-18-to-01-25.md",
     "docs/new-testament/matthew/matthew-02-01-to-02-11.md",
@@ -208,9 +215,6 @@
     "docs/new-testament/matthew/topical/Matthew01-01-17-genealogy-of-jesus-christ.md",
     "docs/temp/Matthew 02-01 to 02-11.md",
     "docs/temp/Matthew 02-12 to 02-22.md",
-    "docs/temp/Matthew 01-01 to 01-10.md",
-    "docs/temp/Matthew 01-11 to 01-18.md",
-    "docs/temp/Matthew 02-23 to 03-04.md",
     "docs/temp",
     "docs/untitled folder",
     "docs/new-testament/matthew/untitled folder",
@@ -220,7 +224,6 @@
     "Pasted image 20260728233638.png",
     "Pasted image 20260728233433.png",
     "docs/new-testament/matthew/Unconfirmed 284160.crdownload",
-    "docs/way-of-life",
-    "docs/Way Of Life"
+    "docs/way-of-life"
   ]
 }
