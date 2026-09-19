@@ -11,14 +11,10 @@
             "id": "71e3a0c69a9995cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "09-How-Man-Fell-Into-Sin"
+              "title": "New tab"
             }
           }
         ]
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,11 +180,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2d4341d4d837c80",
+  "active": "71e3a0c69a9995cb",
   "lastOpenFiles": [
+    "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
+    "docs/words-of-life/09-How-Man-Fell-Into-Sin.md",
+    "docs/words-of-life/08-Faith-And-Obedience.md",
+    "docs/words-of-life/07-Sin-And-Salvation.md",
+    "docs/words-of-life/06-The-Basis-Of-Gods-Forgiveness.md",
+    "docs/words-of-life/05-The-Heavenly-and-Earthly-Pulls.md",
+    "docs/words-of-life/04-Choosing-The-Creator-Over-The-Created.md",
+    "docs/words-of-life/03-How-God-Overcomes-Evil.md",
+    "docs/words-of-life/02-Free-Will-And-Conscience.md",
+    "docs/words-of-life/01-The-Root-Causes-Of-Evil.md",
+    "docs/words-of-life",
     "docs/way-of-life/08-Faith-And-Obedience.md",
     "docs/way-of-life/07-Sin-And-Salvation.md",
-    "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
     "docs/new-testament/matthew/John-The-Baptist-Notes.md.md",
     "Untitled.md",
     "Untitled 1.base",
@@ -206,15 +211,6 @@
     "docs/new-testament/matthew/matthew-04-01-to-04-05.md",
     "docs/new-testament/matthew/matthew-04-06-to-04-07.md",
     "docs/way-of-life/06-The-Basis-Of-Gods-Forgiveness.md",
-    "docs/way-of-life/05-The-Heavenly-and-Earthly-Pulls.md",
-    "docs/new-testament/matthew/matthew-01-18-to-01-25 (personal notes).md",
-    "docs/way-of-life/04-Choosing-The-Creator-Over-The-Created.md",
-    "docs/way-of-life/03-How-God-Overcomes-Evil.md",
-    "docs/way-of-life/02-Free-Will-And-Conscience.md",
-    "docs/way-of-life/01-The-Root-Causes-Of-Evil.md",
-    "docs/new-testament/matthew/matthew-01-01-to-01-10.md",
-    "docs/temp/Matthew 01-18 to 01-25.md",
-    "docs/new-testament/matthew/topical/Matthew01-01-17-genealogy-of-jesus-christ.md",
     "docs/temp",
     "docs/untitled folder",
     "docs/new-testament/matthew/untitled folder",
@@ -223,7 +219,6 @@
     "start_mkdocs.sh",
     "Pasted image 20260728233638.png",
     "Pasted image 20260728233433.png",
-    "docs/new-testament/matthew/Unconfirmed 284160.crdownload",
-    "docs/way-of-life"
+    "docs/new-testament/matthew/Unconfirmed 284160.crdownload"
   ]
 }
