@@ -11,10 +11,14 @@
             "id": "71e3a0c69a9995cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/words-of-life/12-Salvation-From-Sin-And-The-World.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "12-Salvation-From-Sin-And-The-World"
             }
           }
         ]
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/words-of-life/12-Salvation-From-Sin-And-The-World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,8 +187,9 @@
   },
   "active": "71e3a0c69a9995cb",
   "lastOpenFiles": [
-    "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
     "docs/words-of-life/09-How-Man-Fell-Into-Sin.md",
+    "docs/words-of-life/12-Salvation-From-Sin-And-The-World.md",
+    "docs/way-of-life/09-How-Man-Fell-Into-Sin.md",
     "docs/words-of-life/08-Faith-And-Obedience.md",
     "docs/words-of-life/07-Sin-And-Salvation.md",
     "docs/words-of-life/06-The-Basis-Of-Gods-Forgiveness.md",
@@ -210,7 +216,6 @@
     "docs/new-testament/matthew/matthew-03-13-to-03-17.md",
     "docs/new-testament/matthew/matthew-04-01-to-04-05.md",
     "docs/new-testament/matthew/matthew-04-06-to-04-07.md",
-    "docs/way-of-life/06-The-Basis-Of-Gods-Forgiveness.md",
     "docs/temp",
     "docs/untitled folder",
     "docs/new-testament/matthew/untitled folder",
